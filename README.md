@@ -1,0 +1,2 @@
+# Sentiment-Analysis-on-Corona-Virus-Tweets
+This paper represents the sentiment analysis on collected large number of tweets on Coronavirus or Covid-19. We have applied Lemmatization Stemming for data preprocessing. For feature extraction, we have used techniques such as TF-IDF Bag of Words. Then the classification is done using Machine Learning algorithms such as Support Vector Machine (SVM), Logistic Regression (LR), Random Forest(RF), Extreme Gradient Boosting (XGBoost), and Naive Bayes(NB). We have compared five machine learning algorithms. 
